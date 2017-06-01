@@ -17,7 +17,7 @@ class Controller_Contacts extends Controller
 			{
 				$data["status"] = "access_granted";
 				
-				$to = 'mike9854@yandex.ru'; //Почта получателя, через запятую можно указать сколько угодно адресов
+				$to = 'simonvn@yandex.ru'; //Почта получателя, через запятую можно указать сколько угодно адресов
 				$message = '
 						<html>
 							<head>
